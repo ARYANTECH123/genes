@@ -99,3 +99,4 @@ def compile_creature(template: dict) -> tuple:
 
 if __name__ == "__main__":
     print("mendel.py loaded!")
+
